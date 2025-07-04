@@ -1,5 +1,10 @@
 # English-adverbs
 All kinds of the adverbs
+
+content are based on this : https://www.youtube.com/watch?v=ehzcp9xhe3g&list=PLvwtpGViQC1Yy-XcBcZq0qSTYgbLJXste&index=2
+
+
+
 7 Types of adverbs
 Adverbs of:
 
@@ -140,4 +145,87 @@ I have nowhere to go.
 
 I keep running into Sally everywhere!
 
+
+# 4. Adverbs of Certainty
+Adverbs of Certainty show **how certain** we are about something.
+
+Apparently – Apparently, we’re going to have to work harder.  
+Clearly – David is clearly unhappy to be here.  
+Definitely – You have definitely been working too hard.  
+Undoubtedly – He is undoubtedly a great leader.  
+Obviously – Obviously, we don’t want to spend too much money.  
+Presumably – Presumably, this is where the accident happened.  
+Probably – She will probably come.  
+Certainly – It will certainly rain this evening.
+
+### tip1: Word Order Rule
+
+**Point:**
+
+Adverbs of certainty usually go in **mid-position**.  
+They are placed:
+- **after auxiliary verbs**
+- **before other verbs**
+
+When there are two or more auxiliaries, the adverb goes **after the first**.
+
+### tip2: Exceptions
+
+**Perhaps** and **may be** are exceptions to this rule.  
+They usually go at the **beginning of a clause**.
+
+Examples:
+- Perhaps she will come.  
+- May be you are right.
+
+
+# 5. Adverbs of Degree
+Adverbs of Degree answer **"how much"** or **"to what extent"**.  
+They usually modify **verbs, adjectives, or adverbs**, making them stronger or weaker.
+
+Quite – He was quite agreeable to accepting the plan.  
+Fairly – I am fairly certain.  
+Too – The house is too expensive.  
+Enormously – She worked enormously hard on the project.  
+Entirely – Well, that wasn't entirely true.  
+Very – He’s very good at playing the piano.  
+Extremely – The English test was extremely difficult.  
+Rather – It's rather cold today, isn't it?  
+Almost – She’s almost always late arriving at school.  
+Pretty – It’s pretty interesting to see the history of China.  
+More – When he wears his running shoes, he moves more quickly among everyone.  
+Absolutely – I’m not absolutely certain I posted it.  
+Just – I'll just finish this, then we can go.  
+Barely – She was barely 15 when she won her first championship.  
+Completely – The building was completely destroyed.  
+Enough – He’s bad enough, but his brother is far worse.  
+Fully – Have you fully recovered from your illness?  
+Greatly – I greatly regret not having told the truth.  
+Incredibly – He was incredibly rich, angry, quick.  
+Somewhat – She's somewhat more confident than she used to be.
+
+# 6. Adverbs of Attitude
+We use **evaluative adverbs** to make our **attitude about something clear**.
+
+Common examples include:  
+*frankly, fortunately, honestly, hopefully, interestingly, luckily, sadly, seriously, surprisingly, unbelievably*, etc.
+
+Frankly – Frankly, I don’t think we’ll win.  
+Obviously – He obviously doesn’t want to come.  
+Clearly – She’s clearly the best person for the job.  
+Hopefully – Hopefully, he will reach the top.  
+Honestly – Honestly, I couldn’t eat another bite.  
+Fortunately – Fortunately, we won the game.  
+Interestingly – Interestingly, there are very few students who failed the exam.  
+Luckily – Luckily, the flight is not delayed.  
+Surprisingly – Surprisingly, she got the best grade in the school.  
+Unbelievably – Unbelievably, it actually works.
+
+### tip: Dual Function
+**Point:**  
+Most adverbs of attitude can also function as adverbs of manner.
+
+Examples:  
+- *Frankly*, you should go and talk to her about this problem.  
+- He wants to speak to her *frankly*.
 
