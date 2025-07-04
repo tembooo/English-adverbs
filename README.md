@@ -265,17 +265,17 @@ Many adverbs of attitude can also act as adverbs of manner.
 
 ### ✅ Example 1
 
-**Fortunately** (*Attitude*), she **usually** (*Frequency*) arrives **early** (*Time*) at the office, but **yesterday** (*Time*), she was **extremely** (*Degree*) tired and sat **quietly** (*Manner*) **in** (*Place*) the corner, **probably** (*Certainty*) thinking about the meeting.
+**Hopefully** (*Attitude*), she **usually** (*Frequency*) arrives **today** (*Time*) at work, looking **extremely** (*Degree*) tired but walking **calmly** (*Manner*) **inside** (*Place*), **probably** (*Certainty*) thinking about the exam.
 
 ---
 
 ### ✅ Example 2
 
-**Honestly** (*Attitude*), I **rarely** (*Frequency*) go out **at night** (*Time*), but **last Friday** (*Time*), I was **completely** (*Degree*) exhausted and drove **quickly** (*Manner*) **to** (*Place*) the store, **certainly** (*Certainty*) needing some air.
+**Honestly** (*Attitude*), they **rarely** (*Frequency*) go out **now** (*Time*), but when they do, they get **completely** (*Degree*) dressed up and talk **softly** (*Manner*) **nearby** (*Place*), **definitely** (*Certainty*) enjoying the moment.
 
 ---
 
 ### ✅ Example 3
 
-**Hopefully** (*Attitude*), they **always** (*Frequency*) meet **on Mondays** (*Time*), and **this week** (*Time*), they were **very** (*Degree*) happy to talk **outside** (*Place*) the café, **definitely** (*Certainty*) enjoying each other’s company.
+**Fortunately** (*Attitude*), I **often** (*Frequency*) study **late** (*Time*) at night; I feel **rather** (*Degree*) focused and work **quickly** (*Manner*) **upstairs** (*Place*), **certainly** (*Certainty*) making good progress.
 
