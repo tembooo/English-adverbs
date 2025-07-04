@@ -67,10 +67,77 @@ He drove fast (adverb).
 A fast (adjective) car goes fast (adverb).
 
 
+---
+# 3. Adverbs of Place
+Adverbs of Place describe “where” an action takes place.
+
+They come after verb
+
+Everywhere – I searched everywhere I could think of.
+
+Back – I'm going back to school.
+
+In – Come in!
+
+Nearby – They built a house nearby.
+
+Outside – She took the child outside.
+
+Down – When she entered the classroom, she sat down.
+
+Downstairs – He walks downstairs to meet his father.
+
+### tip1:
+
+| **Sentence**           | **Meaning**                               |
+| ---------------------- | ----------------------------------------- |
+| Come here!             | Come towards me.                          |
+| The table is in here.  | Come with me; we will go see it together. |
+| Put it there.          | Put it in a place away from me.           |
+| The table is in there. | Go in; you can see it by yourself.        |
+
+### tip2:
+
+Point:
+
+Here and there are placed at the beginning of a sentence in exclamations or when emphasis is needed.
+
+They are followed by the verb if the subject is a noun, or by a pronoun if the subject is a pronoun.
+
+Examples:
+
+Here comes the bus!
+
+There it is!
+
+Here they are!
 
 
+### tip3: Adverbs of Place That Are Also Prepositions
 
+When these are used as prepositions, they must be followed by a noun.
 
+| **Word** | **Used as an adverb of place (modifying a verb)** | **Used as a preposition**                    |
+| -------- | ------------------------------------------------- | -------------------------------------------- |
+| around   | The marble rolled around in my hand.              | I am wearing a necklace around my neck.      |
+| behind   | Hurry! You are getting behind.                    | Let’s hide behind the shed.                  |
+| down     | Mary fell down.                                   | John made his way carefully down the cliff.  |
+| in       | We decided to drop in on Jake.                    | I dropped the letter in the mailbox.         |
+| off      | Let’s get off at the next stop.                   | The wind blew the flowers off the tree.      |
+| on       | We rode on for several more hours.                | Please put the books on the table.           |
+| over     | He turned over and went back to sleep.            | I think I will hang the picture over my bed. |
 
+### tip4: Adverbs of Place Ending in “-where”
+These adverbs express a general location without specifying direction or place.
+
+Examples:
+
+I would like to go somewhere warm for my vacation.
+
+Is there anywhere I can find a perfect plate of spaghetti around here?
+
+I have nowhere to go.
+
+I keep running into Sally everywhere!
 
 
