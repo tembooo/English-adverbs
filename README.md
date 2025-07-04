@@ -10,7 +10,7 @@ Content based on this: [https://www.youtube.com/watch?v=ehzcp9xhe3g\&list=PLvwtp
 
 Adverbs of:
 
-* **Frequency** → *how often*
+* **Frequency** → *how often** **Frequency** → *how often*
 * **Time** → *when*
 * **Manner** → *how*
 * **Place** → *where*
@@ -279,3 +279,55 @@ Many adverbs of attitude can also act as adverbs of manner.
 
 **Fortunately** (*Attitude*), I **often** (*Frequency*) study **late** (*Time*) at night; I feel **rather** (*Degree*) focused and work **quickly** (*Manner*) **upstairs** (*Place*), **certainly** (*Certainty*) making good progress.
 
+| Adverbs of Frequency   | Adverbs of Time      | Adverbs of Manner   | Adverbs of Place   | Adverbs of Certainty | Adverbs of Degree | Adverbs of Attitude   |
+|:-----------------------|:---------------------|:--------------------|:-------------------|:----------------------|:-------------------|:------------------------|
+| always                 | now                  | quickly             | here               | probably              | completely         | unbelievably            |
+| usually                | today                | slowly              | there              | presumably            | too                | fortunately             |
+| frequently             | yesterday            | carefully           | nearby             | clearly               | almost             | hopefully               |
+| often                  | tomorrow             | easily              | inside             | certainly             | extremely          | frankly                 |
+| sometimes              | soon                 | loudly              | outside            | obviously             | quite              | surprisingly            |
+| occasionally           | already              | quietly             | upstairs           | undoubtedly           | very               | honestly                |
+| seldom                 | yet                  | well                | downstairs         | evidently             | enough             | seriously               |
+| rarely                 | recently             | badly               | everywhere         | definitely            | fairly             | sadly                   |
+| hardly ever            | lately               | politely            | somewhere          | truly                 | entirely           | gladly                  |
+| never                  | currently            | rudely              | nowhere            | surely                | absolutely         | thankfully              |
+| constantly             | eventually           | happily             | abroad             | maybe                 | just               | regretfully             |
+| regularly              | finally              | sadly               | away               | possibly              | greatly            | astonishingly           |
+| periodically           | earlier              | gracefully          | back               | perhaps               | totally            | amusingly               |
+| intermittently         | afterward            | anxiously           | above              | conceivably           | highly             | critically              |
+| infrequently           | beforehand           | angrily             | below              | clearly               | immensely          | curiously               |
+| annually               | immediately          | calmly              | behind             | doubtlessly           | utterly            | impressively            |
+| daily                  | still                | neatly              | ahead              | surely                | severely           | humbly                  |
+| hourly                 | then                 | enthusiastically    | indoors            | arguably              | exceptionally      | kindly                  |
+| monthly                | soon after           | deliberately        | outdoors           | predictably           | marginally         | oddly                   |
+| weekly                 | by then              | automatically       | near               | unmistakably          | barely             | openly                  |
+| yearly                 | instantly            | gently              | far                | reportedly            | reasonably         | passionately            |
+| every day              | in the past          | sharply             | on                 | assuredly             | somewhat           | unexpectedly            |
+| every week             | in the future        | boldly              | under              | probably              | moderately         | luckily                 |
+| every year             | this week            | blindly             | beneath            | allegedly             | vastly             | sincerely               |
+| from time to time      | last week            | cleverly            | beside             | feasibly              | totally            | respectfully            |
+| once                   | next month           | bravely             | along              | indisputably          | notably            | boldly                  |
+| twice                  | last month           | cautiously          | around             | inarguably            | really             | genuinely               |
+| thrice                 | this year            | cheerfully          | across             | supposedly            | incredibly         | aggressively            |
+| scarcely               | last year            | closely             | under              | clearly               | tremendously       | thoughtfully            |
+| now and then           | next year            | clumsily            | over               | indisputably          | awfully            | openly                  |
+| on occasion            | this morning         | correctly           | in                 | certainly             | fantastically      | nervously               |
+| at times               | tonight              | curiously           | out                | no doubt              | abundantly         | sarcastically           |
+| sporadically           | last night           | defiantly           | through            | potentially           | thoroughly         | reassuringly            |
+| hardly                 | right now            | eagerly             | onto               | arguably              | exceptionally      | warmly                  |
+| barely                 | shortly              | fiercely            | outback            | theoretically         | justly             | astonishingly           |
+| not often              | a moment ago         | generously          | seaward            | evidently             | remarkably         | delicately              |
+| nightly                | a while ago          | helplessly          | offshore           | positively            | lavishly           | amusingly               |
+| biweekly               | these days           | innocently          | yonder             | arguably              | harshly            | marvelously             |
+| repeatedly             | back then            | jokingly            | abroad             | assuredly             | gently             | solemnly                |
+| perpetually            | in those days        | kindly              | around             | definitely            | poorly             | kindly                  |
+| nonstop                | at the moment        | lazily              | inland             | no doubt              | quietly            | enthusiastically        |
+| unceasingly            | at present           | loosely             | overhead           | likely                | wisely             | confidently             |
+| most of the time       | at once              | madly               | underground        | clearly               | skillfully         | unexpectedly            |
+| randomly               | at that time         | merrily             | globally           | probably              | briskly            | unusually               |
+| commonly               | next time            | nervously           | worldwide          | obviously             | firmly             | openly                  |
+| sparsely               | any time now         | obnoxiously         | universally        | surely                | smartly            | subtly                  |
+| inconsistently         | by now               | openly              | regionally         | truthfully            | immensely          | politely                |
+| now and again          | so far               | painfully           | locally            | undoubtedly           | moderately         | regretfully             |
+| again and again        | from now on          | playfully           | cross-country      | no question           | clearly            | humorously              |
+| consistently           | until now            | powerfully          | universally        | of course             | decisively         | interestingly           |
