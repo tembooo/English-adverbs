@@ -1,5 +1,7 @@
 # English-adverbs
 
+cheat sheet:  Probably, I always eat outside my food completely and fast like now, sadly. 
+
 All kinds of adverbs
 
 Content based on this: [https://www.youtube.com/watch?v=ehzcp9xhe3g\&list=PLvwtpGViQC1Yy-XcBcZq0qSTYgbLJXste\&index=2](https://www.youtube.com/watch?v=ehzcp9xhe3g&list=PLvwtpGViQC1Yy-XcBcZq0qSTYgbLJXste&index=2)
