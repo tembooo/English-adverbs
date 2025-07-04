@@ -258,3 +258,24 @@ Many adverbs of attitude can also act as adverbs of manner.
 
 * *Frankly*, you should talk to her.
 * He wants to speak to her *frankly*.
+
+
+
+
+
+### ✅ Example 1
+
+**Fortunately** (*Attitude*), she **usually** (*Frequency*) arrives **early** (*Time*) at the office, but **yesterday** (*Time*), she was **extremely** (*Degree*) tired and sat **quietly** (*Manner*) **in** (*Place*) the corner, **probably** (*Certainty*) thinking about the meeting.
+
+---
+
+### ✅ Example 2
+
+**Honestly** (*Attitude*), I **rarely** (*Frequency*) go out **at night** (*Time*), but **last Friday** (*Time*), I was **completely** (*Degree*) exhausted and drove **quickly** (*Manner*) **to** (*Place*) the store, **certainly** (*Certainty*) needing some air.
+
+---
+
+### ✅ Example 3
+
+**Hopefully** (*Attitude*), they **always** (*Frequency*) meet **on Mondays** (*Time*), and **this week** (*Time*), they were **very** (*Degree*) happy to talk **outside** (*Place*) the café, **definitely** (*Certainty*) enjoying each other’s company.
+
